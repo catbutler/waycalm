@@ -28,7 +28,6 @@ Way Calm is a practice for __making reasoned choices__ that __promote calm__. It
 
 
 ## Being  
-- Being is a behavior, required by all other behaviors. While being, a thing exhibits all its intrinsic qualities
--- Sensing=Translating sensor readings into consciousness
--- Being conscious is pseudovoluntary, meaning it happens automatically but can be directed by the behaver. It entails integrating sensory inputs into persistent patterns
-Reality is the perception, not the thing itself
+- Being is a behavior, required by all other behaviors. While being, a thing exhibits all its intrinsic qualities.
+-- Sensing is a behavior comprising the detection of other things' behaviors through ongoing biological measures.
+-- Being conscious is the ongoing integration of sensations into a unified subjective perspective.  
