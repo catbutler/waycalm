@@ -25,7 +25,6 @@
 
 
 
-
 ## Being  
 - Being is a behavior, required by all other behaviors. While being, a thing exhibits all its intrinsic qualities.
 -- Sensing is a behavior comprising the detection of other things' behaviors through ongoing biological measures.
