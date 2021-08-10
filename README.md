@@ -1,3 +1,14 @@
 # waycalm
 ## Guidelines for calming a stressed world
-Way Calm is a practice for __making reasoned choices__ that __promote calm__. It includes [/dogma](dogma) (assumptions and imperatives) and [/doctrine](doctrine) (methods and precedents), which elaborate on one imperative: Behave yourself.
+Way Calm is a practice for __making reasoned choices__ that __promote calm__. This overview page contains basic assertions justifying and outlining the practice. Way Calm also includes [/dogma](dogma) (assumptions and imperatives) and [/doctrine](doctrine) (methods and precedents), which elaborate on one vague imperative: Behave yourself.
+
+### Basis of a stressed world
+1. Earth has never been free of stress.
+- Borne of heavy remnants accreted from the solar disk after Sol's formation, Earth is a slowly cooling medium-large rocky planet halfway finished orbiting a slowly warming little yellow star before it balloons into a red giant just shy of enveloping our orbit, blasting off our crust and probably most of our mantle to produce a dense ferric planet with no significant atmosphere and no reason to call itself Earth. 
+
+- Every living thing requires resources from the biosphere to support metabolic activity. Some things scavenge the dead and the shed, but most animals eat recent kills, whether plants or other animals. A rare few species' metabolisms have completely remolded the oceans and the atmosphere, killing off vast swathes of living things. But ever since cells started hosting organelles, most successful resource security strategies are cooperative: groups produce and secure resources for members to share. Bees get nutrients and flowering plants get fertilized; bees mortally wound themselves stinging a forager and the hive keeps its honey.
+
+- Stress motivates change that can increase resilience and unlock new behavior. Stressful messages therefore receive high-priority perception, cogitation, and interpretation. But ubiquitous, unrelenting stress eventually overwhelms: dazzled, disoriented, exhausted, paralyzed - helplessness is the typical result.  
+
+2. Culture corrals stress via appeal to the current social order. The incipient global culture has sponsors. Myths and legends, heroes and villains - these aren't primarily transmitted locally by diffusion, they arrive via EM waves across an array of media of various distinguishing characteristics but one in common: each message has a media cost. This cost is incurred by the publisher, who typically recoups it and then some by either selling access to the media, or providing free access but selling advertisement space embedded in the  message delivery. This revenue is therefore either proportional to its power to draw and retain new subscribers, or to the volume of message deliveries, using page views or similar metrics.
+2. Simply put, sensationalism sells. Publishers of all political persuasions face a choice: favor stories that will alarm, shock, titillate or otherwise excite potential message recipients; or cultivate an audience valuing calm and find a way to pay for it.
