@@ -1,6 +1,6 @@
 # Way Calm
 ## Calming a stressed world
-Way Calm is a practice for __making reasoned choices__ that __promote calm__. This overview page contains basic assertions justifying and outlining the practice, which also includes [dogma](/dogma) (assumptions and imperatives) and [doctrine](/doctrine) (methods and precedents), which elaborate on one vague imperative: Behave yourself.
+Way Calm is a practice for __making reasoned choices__ that __promote calm__. This overview page contains basic assertions justifying and outlining the practice, which also includes [dogma](dogma) (assumptions and imperatives) and [doctrine](doctrine) (methods and precedents), which elaborate on one vague imperative: Behave yourself.
 
 ## Assertions
 ### We occupy a stressed world
